@@ -63,21 +63,14 @@ export default {
 };
 </script>
 <style lang="scss" scoped>
-.navbar {
-    height: 80px;
-}
 .collapse {
     background-color: #212529;
     color: #fff;
 }
-#navBar {
-    background-color: #333;
-    color: #fff;
-    overflow: hidden;
-}
+
 .logo {
     font-size: 24px;
-    padding: 0px;
+    padding: 10px;
     float: left;
     width: 200px;
 }
